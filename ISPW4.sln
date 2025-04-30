@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISPW4", "ISPW4\ISPW4.csproj", "{8D24F682-5FED-4F72-A8C1-DC8FA26DA1A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISPW4_Server", "ISPW4_Server\ISPW4_Server.csproj", "{8D24F682-5FED-4F72-A8C1-DC8FA26DA1A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISPW4_Client", "ISPW4_Client\ISPW4_Client.csproj", "{71727B06-BDB4-4006-A838-C0EA0F166960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISPW4_Middleman", "ISPW4_Middleman\ISPW4_Middleman.csproj", "{615E7F7A-795A-485E-9760-B5AF105FBAD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +16,13 @@ Global
 		{8D24F682-5FED-4F72-A8C1-DC8FA26DA1A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D24F682-5FED-4F72-A8C1-DC8FA26DA1A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D24F682-5FED-4F72-A8C1-DC8FA26DA1A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71727B06-BDB4-4006-A838-C0EA0F166960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71727B06-BDB4-4006-A838-C0EA0F166960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71727B06-BDB4-4006-A838-C0EA0F166960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71727B06-BDB4-4006-A838-C0EA0F166960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{615E7F7A-795A-485E-9760-B5AF105FBAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{615E7F7A-795A-485E-9760-B5AF105FBAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{615E7F7A-795A-485E-9760-B5AF105FBAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{615E7F7A-795A-485E-9760-B5AF105FBAD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
