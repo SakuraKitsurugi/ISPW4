@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 > Grade: 10/10
-## Task:
+## Description:
 **Your goal is to implement the RSA digital signature scheme. You are allowed to use cryptographic libraries.**
 ## Application 1 – Signing & Sending:
 - Message Signing:
